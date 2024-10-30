@@ -16,7 +16,6 @@ HI I'M LEE JUN SEONG
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=black"> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/표시할이름-색상?style=flat-square&logo=기술스택아이콘&logoColor=white"/>
  <h5> DevOps<h5>
      <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=git&logoColor=white">
    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=git&logoColor=white">
